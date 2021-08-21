@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @paulmoyag
+- 👀 I’m interested in software architecting
+- 🌱 I’m currently learning cloud computing
+- 💞️ I’m looking to collaborate on not profit projects
+- 📫 How to reach me paulmoyag@gmail.com
